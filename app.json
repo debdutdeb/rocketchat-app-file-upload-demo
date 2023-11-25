@@ -1,0 +1,19 @@
+{
+    "id": "109fbcd1-4907-47c7-8648-ecec08b8cbea",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "me",
+        "homepage": "me",
+        "support": "me"
+    },
+    "name": "Upload file demo",
+    "nameSlug": "upload-file-demo",
+    "classFile": "UploadFileDemoApp.ts",
+    "description": "Upload files using apps",
+    "implements": [
+        "IPreFileUpload",
+        "IUIKitInteractionHandler"
+    ]
+}
